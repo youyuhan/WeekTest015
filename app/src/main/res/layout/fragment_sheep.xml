@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="羊是羊亚科的统称，哺乳纲、偶蹄目、牛科、羊亚科，是人类的家畜之一。有毛的四腿反刍动物，是羊毛的主要来源。毛色主要是白色。我国主要饲养山羊和绵羊。"
+        android:textSize="30sp" />
+</RelativeLayout>

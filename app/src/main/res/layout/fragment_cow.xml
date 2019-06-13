@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/tv_home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:text="牛（拉丁学名：Bovine），属牛族，为牛亚科下的一个族。染色体数为56的野牛、60的黄牛和58染色体的大额牛，杂交有可育后代，为哺乳动物，容易发生罗伯逊易位（丝粒融合）改变染色体数降低生育率，草食性，部分种类为家畜（包含家牛、黄牛、水牛和牦牛）。体型粗壮，部分公牛头部长有一对角。牛能帮助人类进行农业生产。    "
+        android:textSize="30sp" />
+</RelativeLayout>
